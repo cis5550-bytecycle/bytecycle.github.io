@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cis5550-bytecycle/static/css/main.a133a4f6.css",
+    "main.js": "/cis5550-bytecycle/static/js/main.9cc32200.js",
+    "static/media/kalam-v16-latin-regular.woff": "/cis5550-bytecycle/static/media/kalam-v16-latin-regular.4d7391a158430ccfb7de.woff",
+    "static/media/kalam-v16-latin-700.woff": "/cis5550-bytecycle/static/media/kalam-v16-latin-700.8a28b5829d9d23a913ec.woff",
+    "static/media/kalam-v16-latin-regular.woff2": "/cis5550-bytecycle/static/media/kalam-v16-latin-regular.8c949c6d20b3b7c55f63.woff2",
+    "static/media/kalam-v16-latin-700.woff2": "/cis5550-bytecycle/static/media/kalam-v16-latin-700.bfe881a605bd7121b82b.woff2",
+    "index.html": "/cis5550-bytecycle/index.html",
+    "main.a133a4f6.css.map": "/cis5550-bytecycle/static/css/main.a133a4f6.css.map",
+    "main.9cc32200.js.map": "/cis5550-bytecycle/static/js/main.9cc32200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a133a4f6.css",
+    "static/js/main.9cc32200.js"
+  ]
+}
