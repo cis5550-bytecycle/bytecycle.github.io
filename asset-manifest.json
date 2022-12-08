@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.d4497616.css",
-    "main.js": "./static/js/main.9cc32200.js",
-    "static/media/kalam-v16-latin-regular.woff": "./static/media/kalam-v16-latin-regular.4d7391a158430ccfb7de.woff",
-    "static/media/kalam-v16-latin-700.woff": "./static/media/kalam-v16-latin-700.8a28b5829d9d23a913ec.woff",
-    "static/media/kalam-v16-latin-regular.woff2": "./static/media/kalam-v16-latin-regular.8c949c6d20b3b7c55f63.woff2",
-    "static/media/kalam-v16-latin-700.woff2": "./static/media/kalam-v16-latin-700.bfe881a605bd7121b82b.woff2",
-    "index.html": "./index.html",
-    "main.d4497616.css.map": "./static/css/main.d4497616.css.map",
-    "main.9cc32200.js.map": "./static/js/main.9cc32200.js.map"
+    "main.css": "/client/static/css/main.a05188fd.css",
+    "main.js": "/client/static/js/main.9cc32200.js",
+    "static/media/kalam-v16-latin-regular.woff": "/client/static/media/kalam-v16-latin-regular.4d7391a158430ccfb7de.woff",
+    "static/media/kalam-v16-latin-700.woff": "/client/static/media/kalam-v16-latin-700.8a28b5829d9d23a913ec.woff",
+    "static/media/kalam-v16-latin-regular.woff2": "/client/static/media/kalam-v16-latin-regular.8c949c6d20b3b7c55f63.woff2",
+    "static/media/kalam-v16-latin-700.woff2": "/client/static/media/kalam-v16-latin-700.bfe881a605bd7121b82b.woff2",
+    "index.html": "/client/index.html",
+    "main.a05188fd.css.map": "/client/static/css/main.a05188fd.css.map",
+    "main.9cc32200.js.map": "/client/static/js/main.9cc32200.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4497616.css",
+    "static/css/main.a05188fd.css",
     "static/js/main.9cc32200.js"
   ]
 }
