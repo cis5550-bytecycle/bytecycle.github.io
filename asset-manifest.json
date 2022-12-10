@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4b617fee.css",
-    "main.js": "/static/js/main.bd560bcb.js",
+    "main.js": "/static/js/main.1b4c5eab.js",
     "static/media/kalam-v16-latin-regular.woff": "/static/media/kalam-v16-latin-regular.4d7391a158430ccfb7de.woff",
     "static/media/kalam-v16-latin-700.woff": "/static/media/kalam-v16-latin-700.8a28b5829d9d23a913ec.woff",
     "static/media/kalam-v16-latin-regular.woff2": "/static/media/kalam-v16-latin-regular.8c949c6d20b3b7c55f63.woff2",
     "static/media/kalam-v16-latin-700.woff2": "/static/media/kalam-v16-latin-700.bfe881a605bd7121b82b.woff2",
     "index.html": "/index.html",
     "main.4b617fee.css.map": "/static/css/main.4b617fee.css.map",
-    "main.bd560bcb.js.map": "/static/js/main.bd560bcb.js.map"
+    "main.1b4c5eab.js.map": "/static/js/main.1b4c5eab.js.map"
   },
   "entrypoints": [
     "static/css/main.4b617fee.css",
-    "static/js/main.bd560bcb.js"
+    "static/js/main.1b4c5eab.js"
   ]
 }
